@@ -1,0 +1,4 @@
+# mybatis_nixianggongcheng
+这是对mybatis逆向工程简单的一个使用。包括了使用pagehelper实现分页
+包括了逆向工程需要的一些配置文件。
+也包括了使用这些配置文件的代码。
